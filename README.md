@@ -2,7 +2,7 @@
 
 Welcome to the Conference Ticket Booking CLI Application! 🎟️🎉
 
-This simple command-line tool allows users to book tickets for a conference using emojis as well.
+This simple command-line tool allows users to book tickets for a conference.
 
 ## Features
 
